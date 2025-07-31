@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mujoco model="LeftHandScene">
+    <compiler coordinate="local" angle="radian" meshdir="../../meshes" />
+    <include file="common_scene.xml"/>
+    <include file="../../models/left/ProHand_L_convex.xml"/>
+
+</mujoco> 
