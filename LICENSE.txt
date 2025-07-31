@@ -1,0 +1,25 @@
+opyright (c) 2025 Proception
+
+Permission is hereby granted to any individual or institution to use, copy, and modify the MJCF model files in this repository for **non-commercial academic or research purposes only**, subject to the following conditions:
+
+1. **Non-Commercial Use Only**  
+   The models may not be used, either directly or indirectly, for any commercial purpose without explicit written permission from the copyright holders.  
+   Commercial use includes, but is not limited to, use in proprietary software, commercial services, internal corporate tools, or any product or project intended for or involving revenue generation.
+
+2. **Collaborations Welcome**  
+   For commercial licensing, research collaboration, or partnership inquiries, please contact:  
+   **[your-email@yourdomain.com]**
+
+3. **No Redistribution**  
+   Redistribution of the models, in whole or in part, in modified or unmodified form, is prohibited without prior written consent.  
+   You may not publish or upload the models to other repositories or hosting platforms.
+
+4. **No Warranty**  
+   The models are provided "as is", without warranty of any kind, express or implied. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability arising from the use of the models.
+
+By downloading, copying, or using these models, you agree to abide by the terms of this license.
+
+---
+
+For license questions or requests, contact:  
+**[contact@proception.ai]**
