@@ -7,19 +7,21 @@ import numpy as np
 import time
 import sys
 import argparse
+import os 
 
 def main():
     # Parse command line arguments
     parser = argparse.ArgumentParser(description='View hand models with joint control')
     parser.add_argument('scene', choices=['left', 'right', 'both'], 
-                       help='Scene to load: left, right, or both hands')
+                        help='Scene to load: left, right, or both hands')
     args = parser.parse_args()
     
     # Map scene choice to XML file
+    this_dir = os.path.dirname(os.path.abspath(__file__))
     scene_files = {
-        'left': 'scenes/left_hand_scene.xml',
-        'right': 'scenes/right_hand_scene.xml', 
-        'both': 'scenes/both_hands_scene.xml'
+        'left':  f'{this_dir}/scenes/left_hand_scene.xml',
+        'right': f'{this_dir}/scenes/right_hand_scene.xml', 
+        'both':  f'{this_dir}/scenes/both_hands_scene.xml'
     }
     
     xml_path = scene_files[args.scene]
