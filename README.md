@@ -169,7 +169,7 @@ Please contact us to discuss licensing:
 If you use these models in your research, please cite:
 
 ```bibtex
-@misc{pro_models_2024,
+@misc{pro_models_2025,
   title={Pro-Models: Proception Inc. Simulation Models for MuJoCo},
   author={Proception Inc., Jianxiang Xu, etc.},
   year={2025},
@@ -179,16 +179,7 @@ If you use these models in your research, please cite:
 
 ## Support
 
-For questions, issues, or feature requests, please:
-- Open an issue on GitHub
-- Check the example code in the `example/` directory
-- Review the model specifications in the `assets/` directory
-
-## Related Projects
-
-- [MuJoCo](http://www.mujoco.org/) - Physics engine
-- [ProHand Documentation](link-to-prohand-docs) - Original hand specifications
-- [Example Viewer](./example/) - Interactive model viewer 
+If you have questions, encounter issues, or would like to request a feature, feel free to open a GitHub issue.
 
 <eof>
 

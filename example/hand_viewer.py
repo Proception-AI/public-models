@@ -3,9 +3,7 @@
 
 import mujoco
 import mujoco.viewer
-import numpy as np
 import time
-import sys
 import argparse
 import os 
 
